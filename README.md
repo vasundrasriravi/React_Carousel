@@ -214,7 +214,7 @@ body, html {
 
 ```
 ## OUTPUT
-
+![Screenshot 2025-05-25 165259](https://github.com/user-attachments/assets/96342bf4-6309-4ebb-b20b-1a9c03787866)
 
 ## RESULT
 The program for creating Image Carousel using React is executed successfully.
